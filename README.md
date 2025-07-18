@@ -46,4 +46,4 @@ While the model's predictive accuracy is limited, it highlights how climate vari
 
 ## 📌 Author
 - Part of the **PLP Academy AI for Sustainable Development (Week 2 Assignment)**.
-- [GitHub](https://github.com/mosesakpala)
+- [GitHub](https://github.com/MosesMolepo001/week-2-AI.git)
